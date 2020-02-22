@@ -1,5 +1,5 @@
 
-![avatar](.//pic//所有模式之间的关系.png)
+![avatar](.\\pic\\所有模式之间的关系.png)
 
 # 1. Single Thread Execution
 以共享资源被多线程访问。
